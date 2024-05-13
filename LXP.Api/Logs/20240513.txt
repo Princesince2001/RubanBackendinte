@@ -1,0 +1,717 @@
+2024-05-13 09:12:48.045 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-13 09:12:48.086 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 53.0743ms
+2024-05-13 09:12:48.103 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 09:12:48.103 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-13 09:12:48.107 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 4.2784ms
+2024-05-13 09:12:48.119 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 16.0843ms
+2024-05-13 09:12:48.253 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-13 09:12:48.277 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 23.9928ms
+2024-05-13 09:13:00.453 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-13 09:13:00.484 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 30.8993ms
+2024-05-13 09:13:00.529 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 09:13:00.531 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-13 09:13:00.543 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 14.0139ms
+2024-05-13 09:13:00.585 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 53.5534ms
+2024-05-13 09:13:00.780 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-13 09:13:00.794 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 14.7471ms
+2024-05-13 09:14:15.665 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/course/courselevel/574b2175-ddff-460f-8a5d-5becb6930be4 - null null
+2024-05-13 09:14:15.675 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.CourseLevelController.GetAllCourseLevel (LXP.Api)'
+2024-05-13 09:14:15.688 +05:30 [INF] Route matched with {action = "GetAllCourseLevel", controller = "CourseLevel"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCourseLevel(System.String) on controller LXP.Api.Controllers.CourseLevelController (LXP.Api).
+2024-05-13 09:14:15.968 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 09:14:15.978 +05:30 [INF] Executed action LXP.Api.Controllers.CourseLevelController.GetAllCourseLevel (LXP.Api) in 287.1195ms
+2024-05-13 09:14:15.981 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.CourseLevelController.GetAllCourseLevel (LXP.Api)'
+2024-05-13 09:14:15.983 +05:30 [INF] HTTP GET /lxp/course/courselevel/574b2175-ddff-460f-8a5d-5becb6930be4 responded 200 in 307.5385 ms
+2024-05-13 09:14:15.985 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/course/courselevel/574b2175-ddff-460f-8a5d-5becb6930be4 - 200 null application/json; charset=utf-8 319.5532ms
+2024-05-13 09:57:59.672 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-13 09:57:59.680 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 9.6509ms
+2024-05-13 09:57:59.693 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 09:57:59.693 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-13 09:57:59.695 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 2.2717ms
+2024-05-13 09:57:59.700 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 6.7418ms
+2024-05-13 09:57:59.868 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-13 09:57:59.882 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 13.9961ms
+2024-05-13 10:00:14.958 +05:30 [INF] Request starting HTTP/1.1 PUT http://localhost:5199/lxp/learner/updateProfile/0f3d8c96-6262-418f-8f84-e737a95ca1b3 - multipart/form-data; boundary=----WebKitFormBoundarycqlfhAMZux7AJLE6 10520
+2024-05-13 10:00:14.962 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.UpdateProfile (LXP.Api)'
+2024-05-13 10:00:14.973 +05:30 [INF] Route matched with {action = "UpdateProfile", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateProfile(System.String, LXP.Common.ViewModels.UpdateProfileViewModel, Microsoft.AspNetCore.Http.IFormFile) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 10:00:16.526 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.UpdateProfile (LXP.Api) in 1550.9024ms
+2024-05-13 10:00:16.528 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.UpdateProfile (LXP.Api)'
+2024-05-13 10:00:16.530 +05:30 [ERR] HTTP PUT /lxp/learner/updateProfile/0f3d8c96-6262-418f-8f84-e737a95ca1b3 responded 500 in 1568.0446 ms
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> MySqlConnector.MySqlException (0x80004005): Cannot add or update a child row: a foreign key constraint fails (`lxp`.`enrollments`, CONSTRAINT `FK_enrollments_course_course_id` FOREIGN KEY (`course_id`) REFERENCES `course` (`course_id`) ON DELETE CASCADE)
+   at MySqlConnector.Core.ServerSession.ReceiveReplyAsync(IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 894
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in /_/src/MySqlConnector/Core/ResultSet.cs:line 37
+   at MySqlConnector.MySqlDataReader.ActivateResultSet(CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 130
+   at MySqlConnector.MySqlDataReader.InitAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, IDictionary`2 cachedProcedures, IMySqlCommand command, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 483
+   at MySqlConnector.Core.CommandExecutor.ExecuteReaderAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/CommandExecutor.cs:line 56
+   at MySqlConnector.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 357
+   at MySqlConnector.MySqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 350
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at LXP.Data.Repository.ProfileRepository.UpdateProfile(LearnerProfile learnerProfile) in D:\Priya Backend one\LXP.Data\Repository\ProfileRepository.cs:line 52
+   at LXP.Core.Services.ProfileService.UpdateProfile(UpdateProfileViewModel model) in D:\Priya Backend one\LXP.Core\Services\ProfileService.cs:line 54
+   at LXP.Api.Controllers.RegistrationController.UpdateProfile(String id, UpdateProfileViewModel model, IFormFile file) in D:\Priya Backend one\LXP.Api\Controllers\RegistrationController.cs:line 380
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-05-13 10:00:16.632 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> MySqlConnector.MySqlException (0x80004005): Cannot add or update a child row: a foreign key constraint fails (`lxp`.`enrollments`, CONSTRAINT `FK_enrollments_course_course_id` FOREIGN KEY (`course_id`) REFERENCES `course` (`course_id`) ON DELETE CASCADE)
+   at MySqlConnector.Core.ServerSession.ReceiveReplyAsync(IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 894
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in /_/src/MySqlConnector/Core/ResultSet.cs:line 37
+   at MySqlConnector.MySqlDataReader.ActivateResultSet(CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 130
+   at MySqlConnector.MySqlDataReader.InitAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, IDictionary`2 cachedProcedures, IMySqlCommand command, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 483
+   at MySqlConnector.Core.CommandExecutor.ExecuteReaderAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/CommandExecutor.cs:line 56
+   at MySqlConnector.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 357
+   at MySqlConnector.MySqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 350
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at LXP.Data.Repository.ProfileRepository.UpdateProfile(LearnerProfile learnerProfile) in D:\Priya Backend one\LXP.Data\Repository\ProfileRepository.cs:line 52
+   at LXP.Core.Services.ProfileService.UpdateProfile(UpdateProfileViewModel model) in D:\Priya Backend one\LXP.Core\Services\ProfileService.cs:line 54
+   at LXP.Api.Controllers.RegistrationController.UpdateProfile(String id, UpdateProfileViewModel model, IFormFile file) in D:\Priya Backend one\LXP.Api\Controllers\RegistrationController.cs:line 380
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-05-13 10:00:16.655 +05:30 [INF] Request finished HTTP/1.1 PUT http://localhost:5199/lxp/learner/updateProfile/0f3d8c96-6262-418f-8f84-e737a95ca1b3 - 500 null text/plain; charset=utf-8 1696.505ms
+2024-05-13 10:02:55.890 +05:30 [INF] Request starting HTTP/1.1 PUT http://localhost:5199/lxp/learner/updateProfile/427f90b0-82a3-4662-8cb9-a7214a5b6d22 - multipart/form-data; boundary=----WebKitFormBoundaryG3jlc31ANUWmCsGg 10520
+2024-05-13 10:02:55.898 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.UpdateProfile (LXP.Api)'
+2024-05-13 10:02:55.899 +05:30 [INF] Route matched with {action = "UpdateProfile", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateProfile(System.String, LXP.Common.ViewModels.UpdateProfileViewModel, Microsoft.AspNetCore.Http.IFormFile) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 10:04:01.754 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-13 10:04:01.788 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-13 10:04:01.789 +05:30 [INF] Hosting environment: Development
+2024-05-13 10:04:01.790 +05:30 [INF] Content root path: D:\Priya Backend one\LXP.Api
+2024-05-13 10:04:05.846 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-13 10:04:06.330 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 488.5906ms
+2024-05-13 10:04:06.337 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 10:04:06.343 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 5.788ms
+2024-05-13 10:04:06.349 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-13 10:04:06.375 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 25.925ms
+2024-05-13 10:04:06.588 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-13 10:04:06.676 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 87.5774ms
+2024-05-13 10:06:25.498 +05:30 [INF] Request starting HTTP/1.1 PUT http://localhost:5199/lxp/learner/updateProfile/a4c928df-0ac1-442c-ae5d-f5f6b0cc4814 - multipart/form-data; boundary=----WebKitFormBoundary3SHh6uzcoiI6tBCx 324101
+2024-05-13 10:06:25.504 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-13 10:06:25.507 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.UpdateProfile (LXP.Api)'
+2024-05-13 10:06:25.524 +05:30 [INF] Route matched with {action = "UpdateProfile", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateProfile(System.String, LXP.Common.ViewModels.UpdateProfileViewModel, Microsoft.AspNetCore.Http.IFormFile) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 10:06:27.488 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 10:06:27.500 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.UpdateProfile (LXP.Api) in 1971.9863ms
+2024-05-13 10:06:27.502 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.UpdateProfile (LXP.Api)'
+2024-05-13 10:06:27.504 +05:30 [INF] HTTP PUT /lxp/learner/updateProfile/a4c928df-0ac1-442c-ae5d-f5f6b0cc4814 responded 200 in 2000.2043 ms
+2024-05-13 10:06:27.508 +05:30 [INF] Request finished HTTP/1.1 PUT http://localhost:5199/lxp/learner/updateProfile/a4c928df-0ac1-442c-ae5d-f5f6b0cc4814 - 200 null application/json; charset=utf-8 2012.4231ms
+2024-05-13 10:07:37.232 +05:30 [INF] Request starting HTTP/1.1 PUT http://localhost:5199/lxp/learner/updateProfile/a4c928df-0ac1-442c-ae5d-f5f6b0cc4814 - multipart/form-data; boundary=----WebKitFormBoundaryYU5V64pPrSBqH75W 324091
+2024-05-13 10:07:37.239 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.UpdateProfile (LXP.Api)'
+2024-05-13 10:07:37.240 +05:30 [INF] Route matched with {action = "UpdateProfile", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateProfile(System.String, LXP.Common.ViewModels.UpdateProfileViewModel, Microsoft.AspNetCore.Http.IFormFile) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 10:07:37.289 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 10:07:37.290 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.UpdateProfile (LXP.Api) in 48.8094ms
+2024-05-13 10:07:37.291 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.UpdateProfile (LXP.Api)'
+2024-05-13 10:07:37.292 +05:30 [INF] HTTP PUT /lxp/learner/updateProfile/a4c928df-0ac1-442c-ae5d-f5f6b0cc4814 responded 200 in 53.3355 ms
+2024-05-13 10:07:37.294 +05:30 [INF] Request finished HTTP/1.1 PUT http://localhost:5199/lxp/learner/updateProfile/a4c928df-0ac1-442c-ae5d-f5f6b0cc4814 - 200 null application/json; charset=utf-8 62.5461ms
+2024-05-13 10:10:48.154 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-13 10:10:48.187 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-13 10:10:48.188 +05:30 [INF] Hosting environment: Development
+2024-05-13 10:10:48.189 +05:30 [INF] Content root path: D:\Priya Backend one\LXP.Api
+2024-05-13 10:10:49.550 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-13 10:10:50.078 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 534.6415ms
+2024-05-13 10:10:50.091 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 10:10:50.092 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-13 10:10:50.096 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 4.9777ms
+2024-05-13 10:10:50.122 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 30.0188ms
+2024-05-13 10:10:50.222 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-13 10:10:50.315 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 92.9324ms
+2024-05-13 10:11:30.941 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-13 10:11:30.973 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-13 10:11:30.975 +05:30 [INF] Hosting environment: Development
+2024-05-13 10:11:30.976 +05:30 [INF] Content root path: D:\Priya Backend one\LXP.Api
+2024-05-13 10:11:34.662 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-13 10:11:34.931 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 276.9252ms
+2024-05-13 10:11:34.961 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 10:11:34.961 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-13 10:11:34.967 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 13.2173ms
+2024-05-13 10:11:34.991 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 37.3671ms
+2024-05-13 10:11:35.088 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-13 10:11:35.185 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 96.7359ms
+2024-05-13 10:12:46.757 +05:30 [INF] Request starting HTTP/1.1 PUT http://localhost:5199/lxp/learner/updateProfile/a4c928df-0ac1-442c-ae5d-f5f6b0cc4814 - multipart/form-data; boundary=----WebKitFormBoundaryygbMAh9ALmNg2hkm 7669
+2024-05-13 10:12:46.767 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-13 10:12:46.770 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.UpdateProfile (LXP.Api)'
+2024-05-13 10:12:46.788 +05:30 [INF] Route matched with {action = "UpdateProfile", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateProfile(System.String, LXP.Common.ViewModels.UpdateProfileViewModel, Microsoft.AspNetCore.Http.IFormFile) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 10:12:48.755 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 10:12:48.769 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.UpdateProfile (LXP.Api) in 1977.1712ms
+2024-05-13 10:12:48.771 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.UpdateProfile (LXP.Api)'
+2024-05-13 10:12:48.774 +05:30 [INF] HTTP PUT /lxp/learner/updateProfile/a4c928df-0ac1-442c-ae5d-f5f6b0cc4814 responded 200 in 2007.4718 ms
+2024-05-13 10:12:48.776 +05:30 [INF] Request finished HTTP/1.1 PUT http://localhost:5199/lxp/learner/updateProfile/a4c928df-0ac1-442c-ae5d-f5f6b0cc4814 - 200 null application/json; charset=utf-8 2019.7876ms
+2024-05-13 10:16:09.727 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-13 10:16:09.758 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-13 10:16:09.760 +05:30 [INF] Hosting environment: Development
+2024-05-13 10:16:09.760 +05:30 [INF] Content root path: D:\Priya Backend one\LXP.Api
+2024-05-13 10:16:13.703 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-13 10:16:14.204 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 504.2776ms
+2024-05-13 10:16:14.223 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 10:16:14.223 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-13 10:16:14.227 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 4.0354ms
+2024-05-13 10:16:14.251 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 27.4463ms
+2024-05-13 10:16:14.348 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-13 10:16:14.442 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 93.7322ms
+2024-05-13 10:18:34.809 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-13 10:18:34.839 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-13 10:18:34.841 +05:30 [INF] Hosting environment: Development
+2024-05-13 10:18:34.841 +05:30 [INF] Content root path: D:\Priya Backend one\LXP.Api
+2024-05-13 10:18:38.785 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-13 10:18:39.058 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 277.6091ms
+2024-05-13 10:18:39.078 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-13 10:18:39.078 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 10:18:39.084 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 5.7488ms
+2024-05-13 10:18:39.104 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 26.2663ms
+2024-05-13 10:18:39.204 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-13 10:18:39.300 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 95.797ms
+2024-05-13 10:20:35.628 +05:30 [INF] Request starting HTTP/1.1 PUT http://localhost:5199/lxp/learner/updateProfile/a4c928df-0ac1-442c-ae5d-f5f6b0cc4814 - multipart/form-data; boundary=----WebKitFormBoundaryUzcAMzz8rfKpMjAs 10120
+2024-05-13 10:20:35.644 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-13 10:20:35.647 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.UpdateProfile (LXP.Api)'
+2024-05-13 10:20:35.664 +05:30 [INF] Route matched with {action = "UpdateProfile", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateProfile(System.String, LXP.Common.ViewModels.UpdateProfileViewModel, Microsoft.AspNetCore.Http.IFormFile) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 10:20:37.528 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 10:20:37.539 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.UpdateProfile (LXP.Api) in 1870.2583ms
+2024-05-13 10:20:37.541 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.UpdateProfile (LXP.Api)'
+2024-05-13 10:20:37.543 +05:30 [INF] HTTP PUT /lxp/learner/updateProfile/a4c928df-0ac1-442c-ae5d-f5f6b0cc4814 responded 200 in 1900.1251 ms
+2024-05-13 10:20:37.546 +05:30 [INF] Request finished HTTP/1.1 PUT http://localhost:5199/lxp/learner/updateProfile/a4c928df-0ac1-442c-ae5d-f5f6b0cc4814 - 200 null application/json; charset=utf-8 1918.2004ms
+2024-05-13 10:21:24.884 +05:30 [INF] Request starting HTTP/1.1 PUT http://localhost:5199/lxp/learner/updateProfile/a4c928df-0ac1-442c-ae5d-f5f6b0cc4814 - multipart/form-data; boundary=----WebKitFormBoundaryiFO2hAi1kK5HGZaa 7672
+2024-05-13 10:21:24.889 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.UpdateProfile (LXP.Api)'
+2024-05-13 10:21:24.890 +05:30 [INF] Route matched with {action = "UpdateProfile", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateProfile(System.String, LXP.Common.ViewModels.UpdateProfileViewModel, Microsoft.AspNetCore.Http.IFormFile) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 10:21:24.935 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 10:21:24.936 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.UpdateProfile (LXP.Api) in 44.8788ms
+2024-05-13 10:21:24.937 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.UpdateProfile (LXP.Api)'
+2024-05-13 10:21:24.938 +05:30 [INF] HTTP PUT /lxp/learner/updateProfile/a4c928df-0ac1-442c-ae5d-f5f6b0cc4814 responded 200 in 49.3481 ms
+2024-05-13 10:21:24.939 +05:30 [INF] Request finished HTTP/1.1 PUT http://localhost:5199/lxp/learner/updateProfile/a4c928df-0ac1-442c-ae5d-f5f6b0cc4814 - 200 null application/json; charset=utf-8 56.972ms
+2024-05-13 12:42:42.491 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-13 12:42:42.551 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 70.6953ms
+2024-05-13 12:42:42.572 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 12:42:42.572 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-13 12:42:42.578 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 5.5009ms
+2024-05-13 12:42:42.641 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 68.2587ms
+2024-05-13 12:42:42.861 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-13 12:42:42.890 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 28.2702ms
+2024-05-13 12:43:04.094 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-13 12:43:04.138 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 44.943ms
+2024-05-13 12:43:04.154 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 12:43:04.154 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-13 12:43:04.158 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 4.1507ms
+2024-05-13 12:43:04.182 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 28.3286ms
+2024-05-13 12:43:04.287 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-13 12:43:04.309 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 22.0724ms
+2024-05-13 12:44:33.115 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/lxp/learner/registration - application/json 220
+2024-05-13 12:44:33.132 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.Registration (LXP.Api)'
+2024-05-13 12:44:33.141 +05:30 [INF] Route matched with {action = "Registration", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Registration(LXP.Common.ViewModels.RegisterUserViewModel) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 12:44:33.173 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2024-05-13 12:44:33.191 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.Registration (LXP.Api) in 47.1521ms
+2024-05-13 12:44:33.194 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.Registration (LXP.Api)'
+2024-05-13 12:44:33.196 +05:30 [INF] HTTP POST /lxp/learner/registration responded 400 in 64.3573 ms
+2024-05-13 12:44:33.199 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/lxp/learner/registration - 400 null application/problem+json; charset=utf-8 83.3732ms
+2024-05-13 12:44:47.445 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-13 12:44:47.482 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 37.7792ms
+2024-05-13 12:44:47.511 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 12:44:47.511 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-13 12:44:47.523 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 11.6314ms
+2024-05-13 12:44:47.541 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 29.8413ms
+2024-05-13 12:44:47.727 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-13 12:44:47.741 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 14.4684ms
+2024-05-13 12:46:06.547 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 12:46:06.565 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 12:46:06.577 +05:30 [INF] Route matched with {action = "GetLearnerProfileById", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetLearnerProfileById(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 12:46:06.649 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 12:46:06.705 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api) in 122.5012ms
+2024-05-13 12:46:06.709 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 12:46:06.711 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 200 in 146.4670 ms
+2024-05-13 12:46:06.714 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - 200 null application/json; charset=utf-8 167.647ms
+2024-05-13 12:47:03.362 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-13 12:47:03.415 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 53.1899ms
+2024-05-13 12:47:03.455 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 12:47:03.456 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-13 12:47:03.487 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 32.3038ms
+2024-05-13 12:47:03.550 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 91.2093ms
+2024-05-13 12:47:03.712 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-13 12:47:03.727 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 15.5343ms
+2024-05-13 12:51:56.319 +05:30 [INF] Request starting HTTP/1.1 PUT http://localhost:5199/lxp/learner/updateProfile/fa90e90a-779f-4397-80d8-f083d7406f84 - multipart/form-data; boundary=----WebKitFormBoundary906kYZqBlQF6Z2Zt 10111
+2024-05-13 12:51:56.332 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.UpdateProfile (LXP.Api)'
+2024-05-13 12:51:56.333 +05:30 [INF] Route matched with {action = "UpdateProfile", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateProfile(System.String, LXP.Common.ViewModels.UpdateProfileViewModel, Microsoft.AspNetCore.Http.IFormFile) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 12:51:56.408 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 12:51:56.410 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.UpdateProfile (LXP.Api) in 72.2349ms
+2024-05-13 12:51:56.411 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.UpdateProfile (LXP.Api)'
+2024-05-13 12:51:56.412 +05:30 [INF] HTTP PUT /lxp/learner/updateProfile/fa90e90a-779f-4397-80d8-f083d7406f84 responded 200 in 80.5266 ms
+2024-05-13 12:51:56.415 +05:30 [INF] Request finished HTTP/1.1 PUT http://localhost:5199/lxp/learner/updateProfile/fa90e90a-779f-4397-80d8-f083d7406f84 - 200 null application/json; charset=utf-8 97.7516ms
+2024-05-13 12:53:06.399 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/c9c3 - null null
+2024-05-13 12:53:06.411 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/post/c9c3 responded 404 in 0.1876 ms
+2024-05-13 12:53:06.415 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/c9c3 - 404 0 null 15.7337ms
+2024-05-13 12:53:06.421 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5199/lxp/view/learnerProfile/post/c9c3, Response status code: 404
+2024-05-13 12:53:39.411 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/ - null null
+2024-05-13 12:53:39.424 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 12:53:39.426 +05:30 [INF] Route matched with {action = "GetLearnerProfileById", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetLearnerProfileById(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 12:53:39.596 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api) in 162.6126ms
+2024-05-13 12:53:39.600 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 12:53:39.603 +05:30 [ERR] HTTP GET /lxp/view/learnerProfile/post/ responded 500 in 179.3145 ms
+System.FormatException: Unrecognized Guid format.
+   at System.Guid.GuidResult.SetFailure(ParseFailure failureKind)
+   at System.Guid.TryParseGuid(ReadOnlySpan`1 guidString, GuidResult& result)
+   at System.Guid.Parse(ReadOnlySpan`1 input)
+   at System.Guid.Parse(String input)
+   at LXP.Core.Services.ProfileService.GetLearnerProfileById(String id) in D:\Priya Backend one\LXP.Core\Services\ProfileService.cs:line 37
+   at LXP.Api.Controllers.RegistrationController.GetLearnerProfileById(String id) in D:\Priya Backend one\LXP.Api\Controllers\RegistrationController.cs:line 73
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-05-13 12:53:39.688 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.FormatException: Unrecognized Guid format.
+   at System.Guid.GuidResult.SetFailure(ParseFailure failureKind)
+   at System.Guid.TryParseGuid(ReadOnlySpan`1 guidString, GuidResult& result)
+   at System.Guid.Parse(ReadOnlySpan`1 input)
+   at System.Guid.Parse(String input)
+   at LXP.Core.Services.ProfileService.GetLearnerProfileById(String id) in D:\Priya Backend one\LXP.Core\Services\ProfileService.cs:line 37
+   at LXP.Api.Controllers.RegistrationController.GetLearnerProfileById(String id) in D:\Priya Backend one\LXP.Api\Controllers\RegistrationController.cs:line 73
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-05-13 12:53:39.714 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/ - 500 null text/plain; charset=utf-8 302.8147ms
+2024-05-13 12:53:39.725 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/ - null null
+2024-05-13 12:53:39.728 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 12:53:39.729 +05:30 [INF] Route matched with {action = "GetLearnerProfileById", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetLearnerProfileById(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 12:53:39.776 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api) in 43.1899ms
+2024-05-13 12:53:39.779 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 12:53:39.781 +05:30 [ERR] HTTP GET /lxp/view/learnerProfile/post/ responded 500 in 53.1575 ms
+System.FormatException: Unrecognized Guid format.
+   at System.Guid.GuidResult.SetFailure(ParseFailure failureKind)
+   at System.Guid.TryParseGuid(ReadOnlySpan`1 guidString, GuidResult& result)
+   at System.Guid.Parse(ReadOnlySpan`1 input)
+   at System.Guid.Parse(String input)
+   at LXP.Core.Services.ProfileService.GetLearnerProfileById(String id) in D:\Priya Backend one\LXP.Core\Services\ProfileService.cs:line 37
+   at LXP.Api.Controllers.RegistrationController.GetLearnerProfileById(String id) in D:\Priya Backend one\LXP.Api\Controllers\RegistrationController.cs:line 73
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-05-13 12:53:39.795 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.FormatException: Unrecognized Guid format.
+   at System.Guid.GuidResult.SetFailure(ParseFailure failureKind)
+   at System.Guid.TryParseGuid(ReadOnlySpan`1 guidString, GuidResult& result)
+   at System.Guid.Parse(ReadOnlySpan`1 input)
+   at System.Guid.Parse(String input)
+   at LXP.Core.Services.ProfileService.GetLearnerProfileById(String id) in D:\Priya Backend one\LXP.Core\Services\ProfileService.cs:line 37
+   at LXP.Api.Controllers.RegistrationController.GetLearnerProfileById(String id) in D:\Priya Backend one\LXP.Api\Controllers\RegistrationController.cs:line 73
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-05-13 12:53:39.821 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/ - 500 null text/plain; charset=utf-8 96.1903ms
+2024-05-13 12:53:53.394 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 12:53:53.410 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 404 in 0.0783 ms
+2024-05-13 12:53:53.416 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - 404 0 null 22.11ms
+2024-05-13 12:53:53.426 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941, Response status code: 404
+2024-05-13 12:53:53.429 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 12:53:53.432 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 404 in 0.0207 ms
+2024-05-13 12:53:53.434 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - 404 0 null 4.7819ms
+2024-05-13 12:53:53.438 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941, Response status code: 404
+2024-05-13 12:54:10.454 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 12:54:10.462 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 404 in 0.0342 ms
+2024-05-13 12:54:10.464 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - 404 0 null 10.6501ms
+2024-05-13 12:54:10.470 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941, Response status code: 404
+2024-05-13 12:54:10.474 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 12:54:10.478 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 404 in 0.0283 ms
+2024-05-13 12:54:10.480 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - 404 0 null 5.805ms
+2024-05-13 12:54:10.484 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941, Response status code: 404
+2024-05-13 12:54:13.210 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 12:54:13.216 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 404 in 0.0594 ms
+2024-05-13 12:54:13.220 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - 404 0 null 9.9948ms
+2024-05-13 12:54:13.229 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941, Response status code: 404
+2024-05-13 12:54:13.234 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 12:54:13.239 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 404 in 0.0259 ms
+2024-05-13 12:54:13.242 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - 404 0 null 7.9594ms
+2024-05-13 12:54:13.246 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941, Response status code: 404
+2024-05-13 12:54:14.390 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 12:54:14.403 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 404 in 0.0993 ms
+2024-05-13 12:54:14.410 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - 404 0 null 19.7657ms
+2024-05-13 12:54:14.422 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941, Response status code: 404
+2024-05-13 12:54:14.433 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 12:54:14.438 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 404 in 0.0394 ms
+2024-05-13 12:54:14.441 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - 499 null null 8.8116ms
+2024-05-13 12:54:14.447 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941, Response status code: 499
+2024-05-13 12:54:14.497 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 12:54:14.503 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 404 in 0.0403 ms
+2024-05-13 12:54:14.506 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - 404 0 null 8.8928ms
+2024-05-13 12:54:14.513 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941, Response status code: 404
+2024-05-13 12:54:14.518 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 12:54:14.523 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 404 in 0.0261 ms
+2024-05-13 12:54:14.525 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - 404 0 null 6.5968ms
+2024-05-13 12:54:14.529 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941, Response status code: 404
+2024-05-13 12:55:03.297 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-13 12:55:03.352 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 55.9132ms
+2024-05-13 12:55:03.373 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 12:55:03.373 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-13 12:55:03.378 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 5.4199ms
+2024-05-13 12:55:03.388 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 15.0147ms
+2024-05-13 12:55:03.619 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-13 12:55:03.633 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 14.1722ms
+2024-05-13 12:56:21.723 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 12:56:21.740 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 12:56:21.747 +05:30 [INF] Route matched with {action = "GetLearnerProfileById", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetLearnerProfileById(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 12:56:21.764 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 12:56:21.788 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api) in 28.2883ms
+2024-05-13 12:56:21.796 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 12:56:21.802 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 200 in 62.0167 ms
+2024-05-13 12:56:21.812 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - 200 null application/json; charset=utf-8 90.5036ms
+2024-05-13 12:58:25.398 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 12:58:25.407 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 404 in 0.0386 ms
+2024-05-13 12:58:25.410 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - 404 0 null 12.0094ms
+2024-05-13 12:58:25.419 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941, Response status code: 404
+2024-05-13 12:58:25.421 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 12:58:25.425 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 404 in 0.0217 ms
+2024-05-13 12:58:25.426 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - 404 0 null 4.8777ms
+2024-05-13 12:58:25.431 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941, Response status code: 404
+2024-05-13 12:58:38.251 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 12:58:38.258 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 404 in 0.0399 ms
+2024-05-13 12:58:38.268 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - 404 0 null 16.7199ms
+2024-05-13 12:58:38.282 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941, Response status code: 404
+2024-05-13 12:58:38.288 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 12:58:38.293 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 404 in 0.0398 ms
+2024-05-13 12:58:38.296 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - 404 0 null 8.2549ms
+2024-05-13 12:58:38.300 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941, Response status code: 404
+2024-05-13 12:59:57.408 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 12:59:57.442 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 404 in 0.0905 ms
+2024-05-13 12:59:57.455 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - 404 0 null 47.1533ms
+2024-05-13 12:59:57.475 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941, Response status code: 404
+2024-05-13 13:00:04.413 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 13:00:04.422 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 404 in 0.0480 ms
+2024-05-13 13:00:04.436 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - 404 0 null 22.6954ms
+2024-05-13 13:00:04.452 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941, Response status code: 404
+2024-05-13 13:00:04.456 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 13:00:04.461 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 404 in 0.0481 ms
+2024-05-13 13:00:04.464 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941 - 404 0 null 7.5451ms
+2024-05-13 13:00:04.468 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5199/lxp/view/learnerProfile/post/1ed64210-1919-4a61-8b98-7ac59ea47941, Response status code: 404
+2024-05-13 13:42:48.797 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-13 13:42:48.817 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 20.2449ms
+2024-05-13 13:42:48.842 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 13:42:48.843 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-13 13:42:48.848 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 5.4347ms
+2024-05-13 13:42:48.857 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 14.0687ms
+2024-05-13 13:42:49.095 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-13 13:42:49.108 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 13.6063ms
+2024-05-13 13:43:53.358 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/lxp/learner/registration - application/json 220
+2024-05-13 13:43:53.364 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.Registration (LXP.Api)'
+2024-05-13 13:43:53.366 +05:30 [INF] Route matched with {action = "Registration", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Registration(LXP.Common.ViewModels.RegisterUserViewModel) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 13:43:53.484 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 13:43:53.486 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.Registration (LXP.Api) in 118.2874ms
+2024-05-13 13:43:53.487 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.Registration (LXP.Api)'
+2024-05-13 13:43:53.488 +05:30 [INF] HTTP POST /lxp/learner/registration responded 200 in 124.0536 ms
+2024-05-13 13:43:53.490 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/lxp/learner/registration - 200 null application/json; charset=utf-8 131.1675ms
+2024-05-13 13:45:13.587 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-13 13:45:13.600 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 14.5161ms
+2024-05-13 13:45:13.618 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 13:45:13.618 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-13 13:45:13.628 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 9.7363ms
+2024-05-13 13:45:13.646 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 27.1244ms
+2024-05-13 13:45:13.837 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-13 13:45:13.848 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 10.2925ms
+2024-05-13 13:52:56.551 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-13 13:52:56.565 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 14.2317ms
+2024-05-13 13:52:56.580 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 13:52:56.580 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-13 13:52:56.582 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 2.4537ms
+2024-05-13 13:52:56.592 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 12.3487ms
+2024-05-13 13:52:56.652 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-13 13:52:56.666 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 13.1593ms
+2024-05-13 13:53:19.098 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-13 13:53:19.109 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 12.5812ms
+2024-05-13 13:53:19.120 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 13:53:19.120 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-13 13:53:19.128 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 8.1187ms
+2024-05-13 13:53:19.139 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 19.1759ms
+2024-05-13 13:53:19.182 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-13 13:53:19.192 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 10.6295ms
+2024-05-13 14:16:32.100 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 14:16:32.104 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 14:16:32.105 +05:30 [INF] Route matched with {action = "GetLearnerProfileById", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetLearnerProfileById(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 14:16:32.108 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 14:16:32.110 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api) in 3.2849ms
+2024-05-13 14:16:32.111 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 14:16:32.112 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 200 in 7.6099 ms
+2024-05-13 14:16:32.113 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - 200 null application/json; charset=utf-8 13.0542ms
+2024-05-13 14:57:23.383 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-13 14:57:23.395 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 12.1456ms
+2024-05-13 14:57:23.410 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 14:57:23.410 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-13 14:57:23.417 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 7.8163ms
+2024-05-13 14:57:23.424 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 14.4353ms
+2024-05-13 14:57:23.591 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-13 14:57:23.603 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 12.6378ms
+2024-05-13 16:33:39.682 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-13 16:33:39.732 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 51.1515ms
+2024-05-13 16:33:39.750 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 16:33:39.751 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-13 16:33:39.754 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 3.9932ms
+2024-05-13 16:33:39.770 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 19.1438ms
+2024-05-13 16:33:40.035 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-13 16:33:40.056 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 20.5859ms
+2024-05-13 16:34:25.879 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/37ac38ee-9720-4b6c-b657-78475f09d226 - null null
+2024-05-13 16:34:25.887 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:34:25.888 +05:30 [INF] Route matched with {action = "GetLearnerProfileById", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetLearnerProfileById(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 16:34:25.985 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 16:34:25.988 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api) in 97.405ms
+2024-05-13 16:34:25.990 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:34:25.992 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/37ac38ee-9720-4b6c-b657-78475f09d226 responded 200 in 105.7214 ms
+2024-05-13 16:34:25.994 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/37ac38ee-9720-4b6c-b657-78475f09d226 - 200 null application/json; charset=utf-8 114.5968ms
+2024-05-13 16:35:05.405 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 16:35:05.410 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:35:05.412 +05:30 [INF] Route matched with {action = "GetLearnerProfileById", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetLearnerProfileById(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 16:35:05.419 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 16:35:05.421 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api) in 3.8394ms
+2024-05-13 16:35:05.423 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:35:05.425 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 200 in 14.8824 ms
+2024-05-13 16:35:05.428 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - 200 null application/json; charset=utf-8 23.2211ms
+2024-05-13 16:35:19.404 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 16:35:19.422 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:35:19.426 +05:30 [INF] Route matched with {action = "GetLearnerProfileById", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetLearnerProfileById(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 16:35:19.442 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 16:35:19.448 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api) in 9.9523ms
+2024-05-13 16:35:19.454 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:35:19.460 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 200 in 38.7243 ms
+2024-05-13 16:35:19.471 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - 200 null application/json; charset=utf-8 67.4687ms
+2024-05-13 16:35:59.961 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 16:35:59.976 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:35:59.981 +05:30 [INF] Route matched with {action = "GetLearnerProfileById", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetLearnerProfileById(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 16:35:59.996 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 16:35:59.999 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api) in 6.4818ms
+2024-05-13 16:36:00.003 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:36:00.006 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 16:36:00.016 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 200 in 40.5317 ms
+2024-05-13 16:36:00.022 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:36:00.025 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - 200 null application/json; charset=utf-8 64.6844ms
+2024-05-13 16:36:00.027 +05:30 [INF] Route matched with {action = "GetLearnerProfileById", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetLearnerProfileById(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 16:36:00.039 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 16:36:00.041 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api) in 4.0811ms
+2024-05-13 16:36:00.043 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:36:00.045 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 200 in 22.5401 ms
+2024-05-13 16:36:00.047 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - 200 null application/json; charset=utf-8 44.0877ms
+2024-05-13 16:38:12.184 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 16:38:12.199 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:38:12.201 +05:30 [INF] Route matched with {action = "GetLearnerProfileById", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetLearnerProfileById(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 16:38:12.209 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 16:38:12.211 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api) in 5.8598ms
+2024-05-13 16:38:12.214 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:38:12.217 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 200 in 18.7216 ms
+2024-05-13 16:38:12.218 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 16:38:12.221 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - 200 null application/json; charset=utf-8 36.8954ms
+2024-05-13 16:38:12.228 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:38:12.240 +05:30 [INF] Route matched with {action = "GetLearnerProfileById", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetLearnerProfileById(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 16:38:12.247 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 16:38:12.250 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api) in 5.4785ms
+2024-05-13 16:38:12.252 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:38:12.254 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 200 in 25.8349 ms
+2024-05-13 16:38:12.256 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - 200 null application/json; charset=utf-8 38.9903ms
+2024-05-13 16:40:04.630 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-13 16:40:04.725 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-13 16:40:04.728 +05:30 [INF] Hosting environment: Development
+2024-05-13 16:40:04.730 +05:30 [INF] Content root path: D:\Priya Backend one\LXP.Api
+2024-05-13 16:40:10.420 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-13 16:40:11.179 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 771.27ms
+2024-05-13 16:40:11.209 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 16:40:11.209 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-13 16:40:11.217 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 8.6261ms
+2024-05-13 16:40:11.267 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 58.3624ms
+2024-05-13 16:40:11.661 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-13 16:40:11.832 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 170.8536ms
+2024-05-13 16:43:55.223 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-13 16:43:55.325 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-13 16:43:55.333 +05:30 [INF] Hosting environment: Development
+2024-05-13 16:43:55.340 +05:30 [INF] Content root path: D:\Priya Backend one\LXP.Api
+2024-05-13 16:43:57.472 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-13 16:43:58.604 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 1139.7415ms
+2024-05-13 16:43:58.614 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 16:43:58.624 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-13 16:43:58.625 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 10.8501ms
+2024-05-13 16:43:58.673 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 48.6719ms
+2024-05-13 16:43:58.879 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-13 16:43:59.022 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 143.0373ms
+2024-05-13 16:44:11.519 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 16:44:11.539 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-13 16:44:11.544 +05:30 [INF] CORS policy execution successful.
+2024-05-13 16:44:11.560 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:44:11.590 +05:30 [INF] Route matched with {action = "GetLearnerProfileById", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetLearnerProfileById(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 16:44:14.379 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 16:44:14.450 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 16:44:14.453 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api) in 2855.0185ms
+2024-05-13 16:44:14.457 +05:30 [INF] CORS policy execution successful.
+2024-05-13 16:44:14.458 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:44:14.459 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:44:14.462 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 200 in 2926.7828 ms
+2024-05-13 16:44:14.464 +05:30 [INF] Route matched with {action = "GetLearnerProfileById", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetLearnerProfileById(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 16:44:14.466 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - 200 null application/json; charset=utf-8 2947.8356ms
+2024-05-13 16:44:14.475 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 16:44:14.478 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api) in 8.6938ms
+2024-05-13 16:44:14.481 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:44:14.483 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 200 in 26.4755 ms
+2024-05-13 16:44:14.486 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - 200 null application/json; charset=utf-8 35.9708ms
+2024-05-13 16:44:31.757 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 16:44:31.765 +05:30 [INF] CORS policy execution successful.
+2024-05-13 16:44:31.767 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:44:31.771 +05:30 [INF] Route matched with {action = "GetLearnerProfileById", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetLearnerProfileById(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 16:44:31.796 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 16:44:31.799 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api) in 22.3036ms
+2024-05-13 16:44:31.801 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 16:44:31.802 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:44:31.807 +05:30 [INF] CORS policy execution successful.
+2024-05-13 16:44:31.809 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 200 in 44.6593 ms
+2024-05-13 16:44:31.811 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:44:31.815 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - 200 null application/json; charset=utf-8 58.1378ms
+2024-05-13 16:44:31.817 +05:30 [INF] Route matched with {action = "GetLearnerProfileById", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetLearnerProfileById(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 16:44:31.827 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 16:44:31.828 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api) in 3.5003ms
+2024-05-13 16:44:31.830 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:44:31.832 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 200 in 24.8596 ms
+2024-05-13 16:44:31.834 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - 200 null application/json; charset=utf-8 33.3424ms
+2024-05-13 16:45:26.688 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 16:45:26.693 +05:30 [INF] CORS policy execution successful.
+2024-05-13 16:45:26.694 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:45:26.696 +05:30 [INF] Route matched with {action = "GetLearnerProfileById", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetLearnerProfileById(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 16:45:26.703 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 16:45:26.706 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api) in 5.7793ms
+2024-05-13 16:45:26.708 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 16:45:26.713 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:45:26.721 +05:30 [INF] CORS policy execution successful.
+2024-05-13 16:45:26.723 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 200 in 29.5479 ms
+2024-05-13 16:45:26.724 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:45:26.726 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - 200 null application/json; charset=utf-8 37.8991ms
+2024-05-13 16:45:26.727 +05:30 [INF] Route matched with {action = "GetLearnerProfileById", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetLearnerProfileById(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 16:45:26.737 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 16:45:26.739 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api) in 3.8178ms
+2024-05-13 16:45:26.740 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:45:26.742 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 200 in 20.3574 ms
+2024-05-13 16:45:26.744 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - 200 null application/json; charset=utf-8 36.2523ms
+2024-05-13 16:45:50.246 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 16:45:50.254 +05:30 [INF] CORS policy execution successful.
+2024-05-13 16:45:50.256 +05:30 [INF] HTTP OPTIONS /lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 204 in 2.5693 ms
+2024-05-13 16:45:50.260 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - 204 null null 13.9275ms
+2024-05-13 16:45:50.270 +05:30 [INF] Request starting HTTP/1.1 PATCH http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - application/json 611
+2024-05-13 16:45:50.274 +05:30 [INF] CORS policy execution successful.
+2024-05-13 16:45:50.275 +05:30 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-05-13 16:45:50.276 +05:30 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-05-13 16:45:50.279 +05:30 [INF] HTTP PATCH /lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 405 in 4.8316 ms
+2024-05-13 16:45:50.281 +05:30 [INF] Request finished HTTP/1.1 PATCH http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - 405 0 null 10.8314ms
+2024-05-13 16:49:14.385 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - null null
+2024-05-13 16:49:14.390 +05:30 [INF] CORS policy execution successful.
+2024-05-13 16:49:14.393 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:49:14.395 +05:30 [INF] Route matched with {action = "GetLearnerProfileById", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetLearnerProfileById(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 16:49:14.402 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 16:49:14.405 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api) in 7.6158ms
+2024-05-13 16:49:14.407 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:49:14.409 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 responded 200 in 18.6439 ms
+2024-05-13 16:49:14.411 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/1ed64210-1919-4a61-8b98-7ac59ea47941 - 200 null application/json; charset=utf-8 26.3079ms
+2024-05-13 16:53:34.346 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-13 16:53:34.402 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-13 16:53:34.403 +05:30 [INF] Hosting environment: Development
+2024-05-13 16:53:34.405 +05:30 [INF] Content root path: D:\Priya Backend one\LXP.Api
+2024-05-13 16:53:53.266 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-13 16:53:54.235 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 980.8929ms
+2024-05-13 16:53:54.259 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-13 16:53:54.259 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 16:53:54.278 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 18.3534ms
+2024-05-13 16:53:54.308 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 48.5668ms
+2024-05-13 16:53:54.526 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-13 16:53:54.706 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 179.7918ms
+2024-05-13 16:54:59.122 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/27007879-1520-425e-80e3-37608e77b8be - null null
+2024-05-13 16:54:59.135 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-13 16:54:59.140 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:54:59.173 +05:30 [INF] Route matched with {action = "GetLearnerProfileById", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetLearnerProfileById(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-05-13 16:55:01.898 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-13 16:55:01.962 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api) in 2782.2767ms
+2024-05-13 16:55:01.964 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GetLearnerProfileById (LXP.Api)'
+2024-05-13 16:55:01.967 +05:30 [INF] HTTP GET /lxp/view/learnerProfile/27007879-1520-425e-80e3-37608e77b8be responded 200 in 2833.9531 ms
+2024-05-13 16:55:01.970 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learnerProfile/27007879-1520-425e-80e3-37608e77b8be - 200 null application/json; charset=utf-8 2847.9744ms

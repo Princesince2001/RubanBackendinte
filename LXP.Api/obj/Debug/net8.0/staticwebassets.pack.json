@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Priya Backend one\\LXP.Api\\wwwroot\\CourseThumbnailImages\\638d9438-54cd-4670-8eb9-710ffbe0330d_branch data 2.png",
+      "PackagePath": "staticwebassets\\CourseThumbnailImages\\638d9438-54cd-4670-8eb9-710ffbe0330d_branch data 2.png"
+    },
+    {
+      "Id": "D:\\Priya Backend one\\LXP.Api\\wwwroot\\Images\\Flag_of_the_Sharp22.png",
+      "PackagePath": "staticwebassets\\Images\\Flag_of_the_Sharp22.png"
+    },
+    {
+      "Id": "D:\\Priya Backend one\\LXP.Api\\wwwroot\\Images\\HDFC-logo edited.png",
+      "PackagePath": "staticwebassets\\Images\\HDFC-logo edited.png"
+    },
+    {
+      "Id": "D:\\Priya Backend one\\LXP.Api\\wwwroot\\Images\\branch data 2.png",
+      "PackagePath": "staticwebassets\\Images\\branch data 2.png"
+    },
+    {
+      "Id": "D:\\Priya Backend one\\LXP.Api\\wwwroot\\Images\\branch data.png",
+      "PackagePath": "staticwebassets\\Images\\branch data.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LXP.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LXP.Api.props",
+      "PackagePath": "build\\LXP.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LXP.Api.props",
+      "PackagePath": "buildMultiTargeting\\LXP.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LXP.Api.props",
+      "PackagePath": "buildTransitive\\LXP.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
